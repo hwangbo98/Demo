@@ -4,7 +4,7 @@ void sub2();
 
 int main()
 {
-    
+    sub1();
     sub2();	
 
     return 0;
