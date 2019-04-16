@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int sub1();
 void sub2();
 
 int main()
